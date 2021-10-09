@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://www.codechef.com/users/shuvam19" target="blank">
-  <img src="codechef.svg" width="30"  height="30"/>
+  <img src="codechef.svg" width="30"  height="30" />
 </a>
 <a href="https://codeforces.com/profile/shuvam19" target="blank">
   <img src="codeforces.svg" width="30"  height="30"/>
