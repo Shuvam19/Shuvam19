@@ -1,6 +1,6 @@
 <h1 align='center'>Hi I'm Shuvam Kumar</h1>
 
-<h2 align='center'>Java Developer | Android Developer</h2>
+<h2 align='center'>Full Stack Developer</h2>
 <br><br>
 <p>I'm a 20 years old Passionate Programmer. </p>
 <p> I love Coding, Solving real life problems with the help of Coding. </p>
